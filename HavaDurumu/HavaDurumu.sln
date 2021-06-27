@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1267
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HavaDurumu", "HavaDurumu\HavaDurumu.csproj", "{EE571862-067C-4556-80CA-EAC41400FE9F}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Meterelog", "Meterelog\Meterelog.vdproj", "{2FD1BA53-F404-4400-AD28-0E4E8C3E37D2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE571862-067C-4556-80CA-EAC41400FE9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE571862-067C-4556-80CA-EAC41400FE9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE571862-067C-4556-80CA-EAC41400FE9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE571862-067C-4556-80CA-EAC41400FE9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2FD1BA53-F404-4400-AD28-0E4E8C3E37D2}.Debug|Any CPU.ActiveCfg = Debug
+		{2FD1BA53-F404-4400-AD28-0E4E8C3E37D2}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BCD886FB-56C1-434D-AE2A-3B276D7C2A02}
+	EndGlobalSection
+EndGlobal

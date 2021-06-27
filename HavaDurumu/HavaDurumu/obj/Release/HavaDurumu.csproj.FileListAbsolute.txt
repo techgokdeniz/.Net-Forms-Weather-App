@@ -1,0 +1,9 @@
+C:\Users\Gokdeniz\source\repos\yedek\HavaDurumu\HavaDurumu\obj\Release\HavaDurumu.csprojAssemblyReference.cache
+C:\Users\Gokdeniz\source\repos\yedek\HavaDurumu\HavaDurumu\obj\Release\HavaDurumu.exe.config
+C:\Users\Gokdeniz\source\repos\yedek\HavaDurumu\HavaDurumu\obj\Release\HavaDurumu.Form1.resources
+C:\Users\Gokdeniz\source\repos\yedek\HavaDurumu\HavaDurumu\obj\Release\HavaDurumu.Formlar.Template.resources
+C:\Users\Gokdeniz\source\repos\yedek\HavaDurumu\HavaDurumu\obj\Release\HavaDurumu.Item.resources
+C:\Users\Gokdeniz\source\repos\yedek\HavaDurumu\HavaDurumu\obj\Release\HavaDurumu.Properties.Resources.resources
+C:\Users\Gokdeniz\source\repos\yedek\HavaDurumu\HavaDurumu\obj\Release\HavaDurumu.csproj.GenerateResource.cache
+C:\Users\Gokdeniz\source\repos\yedek\HavaDurumu\HavaDurumu\obj\Release\HavaDurumu.exe.licenses
+C:\Users\Gokdeniz\source\repos\yedek\HavaDurumu\HavaDurumu\obj\Release\HavaDurumu.csproj.CoreCompileInputs.cache
